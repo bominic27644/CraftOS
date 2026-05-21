@@ -3,7 +3,7 @@
 # image will be published to ghcr.io/<user>/<name>
 name: craftos
 # description will be included in the image's metadata
-description: Bazzite image with a minecraft only session. Includes a prism launcher instance that has wayland craft preinstalled.
+description: Bazzite image with a minecraft only session. Includes prism launcher preinstalled.
 
 # the base image to build on top of (FROM) and the version tag to use
 base-image: ghcr.io/ublue-os/bazzite-nvidia-open
